@@ -9,7 +9,7 @@ namespace HRSimpleArraySum
         {
             // Complete this function
             var arr = new int[3];
-
+             
             arr[0] = a0 != b0 ? 1 : 0;
             arr[1] = a1 != b1 ? 1 : 0;
             arr[2] = a2 != b2 ? 1 : 0;
