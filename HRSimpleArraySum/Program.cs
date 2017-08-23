@@ -11,6 +11,7 @@ namespace HRSimpleArraySum
                 acum = acum + ar[i];
             }
             return acum;
+        //or you can do this: return ar.Sum();
     }
 
     static void Main(String[] args) {
